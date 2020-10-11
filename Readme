@@ -1,3 +1,4 @@
+By AKH
 ##create a new repository on the command line
 echo "# dockerfile-repo" >> README.md
 git init
